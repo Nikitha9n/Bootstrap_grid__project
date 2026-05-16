@@ -19,6 +19,7 @@ A responsive pricing page built using Bootstrap 5.
 - Utility Classes
 
 ## Live Demo
+https://bootstrap1grid.netlify.app/
 
 
 ## Author
